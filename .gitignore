@@ -1,0 +1,42 @@
+# 🔧 IDEs
+.idea/
+.vscode/
+*.iml
+
+# 📦 Build
+/target/
+/build/
+
+# 🧪 Teste
+/test-output/
+
+# 📄 Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# ☕️ Maven
+.mvn/
+!**/src/main/**/.keep
+!**/src/test/**/.keep
+
+# ⚙️ Gradle
+.gradle/
+build/
+
+# 🐘 Gradle Wrapper
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# 🌱 Spring Boot
+application.properties
+application.yml
+application-dev.yml
+application-prod.yml
+
+# 📚 Markdown local output
+*.pdf
+book-output/
