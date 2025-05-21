@@ -22,3 +22,6 @@ Este repositório contém o conteúdo do livro **"Java para Microsserviços e Cl
 ### 👨‍💻 Ideal para:
 - Devs backend buscando migrar para microsserviços
 - Empresas que buscam talentos com experiência prática em cloud
+
+🚀 Acesse a versão online do livro:  
+📘 https://andersonaoliveira.github.io/java-microsservicos-cloud-guia-pratico/

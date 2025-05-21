@@ -1,3 +1,10 @@
+---
+layout: default
+title: Aula 1 – Introdução
+parent: Aulas
+nav_order: 1
+---
+
 # Aula 1 – Introdução ao Curso, Ferramentas e Ambiente (IDE, JDK, Maven/Gradle)
 
 ---
