@@ -1,2 +1,3 @@
-- [Início](/)
+- [Teste](/)
 - [Aula 1](/docs/aula01.md)
+- [Links Úteis](/recursos/links-uteis.md)
