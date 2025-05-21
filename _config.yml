@@ -1,9 +1,9 @@
 title: Java para Microsserviços e Cloud
 description: Um guia prático para backend moderno
-theme: jekyll-theme-cayman
+url: "https://andersonaoliveira.github.io"
+baseurl: "/java-microsservicos-cloud-guia-pratico"
 
-url: https://andersonaoliveira.github.io
-baseurl: /java-microsservicos-cloud-guia-pratico
+theme: just-the-docs
 
 just_the_docs:
   logo: "/assets/imagens/capa.png"
