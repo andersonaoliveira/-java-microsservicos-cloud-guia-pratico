@@ -1,7 +1,7 @@
 # 📘 Java para Microsserviços e Cloud – Um Guia Prático
 
 <p align="center">
-  <img src="imagens/capa.png" alt="Capa do Livro Java para Microsserviços e Cloud" width="400"/>
+  <img src="assets/imagens/capa.png" alt="Capa do Livro Java para Microsserviços e Cloud" width="400"/>
 </p>
 
 Este repositório contém o conteúdo do livro **"Java para Microsserviços e Cloud"**, organizado em aulas práticas, exemplos reais e projetos modernos.
