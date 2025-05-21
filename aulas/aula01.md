@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aula 1 – Introdução
+title: Aula 1
 parent: Aulas
 nav_order: 1
 ---
