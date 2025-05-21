@@ -1,2 +1,2 @@
 - [Início](/java-microsservicos-cloud-guia-pratico/)
-- [Aula 1](/aulas/aula01.md)
+- [Aula 1](/docs/aula01.md)
