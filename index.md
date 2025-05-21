@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Início
-nav_order: 1
 ---
 
 # 📘 Java para Microsserviços e Cloud
