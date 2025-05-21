@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Aula 01
 nav_order: 2
 ---
