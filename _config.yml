@@ -10,5 +10,4 @@ just_the_docs:
   logo: "/assets/imagens/capa.png"
   show_downloads: false
   search_enabled: true
-
-nav_sort: case_sensitive
+  nav_sort: case_sensitive
