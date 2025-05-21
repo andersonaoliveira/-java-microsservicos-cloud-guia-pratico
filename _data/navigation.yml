@@ -1,7 +1,0 @@
-- title: Início
-  url: /
-
-- title: Aulas
-  children:
-    - title: Aula 1 – Introdução
-      url: /aula01

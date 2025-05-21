@@ -10,11 +10,5 @@ just_the_docs:
   logo: "/assets/imagens/capa.png"
   show_downloads: false
   search_enabled: true
-  collections:
-    pages:
-      name: Guia
-      permalink: "/:path/"
-      output: true
-      sort_by: "nav_order"
 
 nav_sort: case_sensitive
